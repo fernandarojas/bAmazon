@@ -35,6 +35,7 @@ If there is enough stock available, then program displays to the user:
 
 
 ## Manager Interface
+![alt-text](https://github.com/fernandarojas/bAmazon/blob/master/GIFS/bamazon_Manager.gif)
 The manager interface presents a list of four options: 
 
 - View Products for Sale 
